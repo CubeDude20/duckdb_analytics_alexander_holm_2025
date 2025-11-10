@@ -1,0 +1,2 @@
+# duckdb_analytics_alexander_holm_2025
+Learning duckdb
